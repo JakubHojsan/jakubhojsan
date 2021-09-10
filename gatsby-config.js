@@ -1,4 +1,7 @@
 module.exports = {
+
+  pathPrefix: "/jakubhojsan.github.io",
+
   plugins: [
     {
       resolve: "gatsby-theme-portfolio-minimal",
