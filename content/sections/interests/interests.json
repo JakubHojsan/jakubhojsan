@@ -1,0 +1,52 @@
+{
+  "interests": [
+    {
+      "label": "MERN Development",
+      "image": {
+        "src": "../../images/react.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "C++/C# Development",
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Game Development",
+      "image": {
+        "src": "../../images/joystick.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Product Management",
+      "image": {
+        "src": "../../images/waving-hand.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Startups",
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Twilio/Stripe Integration",
+      "image": {
+        "src": "../../images/mobile-phone.png",
+        "alt": ""
+      }
+    }
+
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}

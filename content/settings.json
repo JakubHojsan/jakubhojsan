@@ -1,0 +1,41 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "",
+    "title": "Jakub Hojsan's Portfolio",
+    "titleTemplate": "%s · Jakub Hojsan",
+    "description": "A look into my projects and acomplishments.",
+    "author": "Jakub Hojsan",
+    "avatar": "../content/images/favicon.png",
+    "bio": "A current UCLA CS student seeking fun projects to work on.",
+    "social": {
+
+      "github": "https://github.com/jakubhojsan",
+      "medium": "https://medium.com/@jakubhojsan",
+      "linkedin": "https://www.linkedin.com/in/jakubhojsan/",
+      "mail": "mailto:mail@jakubhojsan@g.ucla.edu"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Jakub Hojsan" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Github", "url": "/#github" }
+      ],
+      "ctaButton": {
+        "openNewTab": true, "label": "Resume", "url": "/resume.pdf"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}
