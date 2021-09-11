@@ -25,7 +25,7 @@
         { "label": "Github", "url": "/#github" }
       ],
       "ctaButton": {
-        "openNewTab": true, "label": "Resume", "url": "/resume.pdf"
+        "openNewTab": true, "label": "Resume", "url": "/content/resume.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
